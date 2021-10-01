@@ -1,1 +1,1 @@
-# tas-kagit-makas-oyunu
+# Rock Paper Scissors Game
